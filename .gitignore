@@ -1,0 +1,12 @@
+# build output
+*.o
+*.out
+a.out
+yw
+
+# office temp files
+~$*
+
+# system files
+.DS_Store
+Thumbs.db
